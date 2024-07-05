@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">WordBook</string>
+
+    <string name="add_card">إضافة بطاقة</string>
+    <string name="contains_single_card">يحتوي على: بطاقة واحدة</string>
+    <string name="contains_cards">يحتوي على: %d بطاقات</string>
+    <string name="has_no_cards">لا يحتوي على بطاقات</string>
+
+    <string name="search">بحث</string>
+
+    <string name="camera">كاميرا</string>
+    <string name="gallery">معرض الصور</string>
+    <string name="internet">إنترنت</string>
+
+    <string name="name">الاسم</string>
+    <string name="description">الوصف</string>
+    <string name="term_language">لغة المصطلح</string>
+    <string name="definition_language">لغة التعريف</string>
+    <string name="card_color">لون البطاقة</string>
+    <string name="background_image">صورة الخلفية</string>
+
+    <string name="term">مصطلح</string>
+    <string name="collection">مجموعة</string>
+    <string name="transcription">نسخ</string>
+    <string name="definition">تعريف</string>
+    <string name="example">مثال</string>
+    <string name="image">صورة</string>
+
+    <string name="btn_new">جديد</string>
+    <string name="done">تم</string>
+
+    <string name="enter_collection_name">أدخل اسم المجموعة</string>
+    <string name="enter_description">أدخل الوصف - اختياري</string>
+
+    <string name="enter_term">أدخل المصطلح</string>
+    <string name="enter_transcription">أدخل النسخ - اختياري</string>
+    <string name="enter_definition">أدخل التعريف</string>
+    <string name="enter_example">أدخل المثال - اختياري</string>
+
+    <string name="answer">إجابة</string>
+    <string name="correct_answer">الإجابة الصحيحة</string>
+    <string name="enter_answer">أدخل الإجابة هنا</string>
+
+    <string name="image_url">رابط الصورة</string>
+    <string name="enter_image_url">أدخل رابط الصورة هنا…</string>
+
+    <string name="settings">الإعدادات</string>
+    <string name="crop_image">قص الصورة</string>
+    <string name="new_collection">مجموعة جديدة</string>
+    <string name="edit_collection">تحرير المجموعة</string>
+    <string name="collections">المجموعات</string>
+    <string name="edit_card">تحرير البطاقة</string>
+    <string name="new_card">بطاقة جديدة</string>
+
+    <string name="flashcards">بطاقات التعلم</string>
+    <string name="tests">اختبارات</string>
+    <string name="writing">كتابة</string>
+
+    <string name="edit">تحرير</string>
+    <string name="delete">حذف</string>
+    <string name="move_to">نقل إلى</string>
+    <string name="share_as_image">مشاركة كصورة</string>
+    <string name="share_as_pdf">مشاركة كملف PDF</string>
+
+    <string name="ok">موافق</string>
+    <string name="save">حفظ</string>
+    <string name="share">مشاركة</string>
+    <string name="cancel">إلغاء</string>
+    <string name="restore">استعادة</string>
+    <string name="download">تحميل</string>
+    <string name="show_answer">إظهار الإجابة</string>
+    <string name="study_again">دراسة مرة أخرى</string>
+    <string name="leave">مغادرة</string>
+    <string name="discard">تجاهل</string>
+    <string name="learned">تعلمت</string>
+    <string name="relearn">إعادة التعلم</string>
+    <string name="submit">إرسال</string>
+    <string name="next">التالي</string>
+
+    <string name="delete_collection">حذف المجموعة</string>
+    <string name="delete_collection_msg">هل أنت متأكد أنك تريد حذف هذه المجموعة وجميع بطاقاتها بشكل دائم؟</string>
+
+    <string name="delete_card">حذف البطاقة</string>
+    <string name="delete_card_msg">هل أنت متأكد أنك تريد حذف هذه البطاقة بشكل دائم؟</string>
+
+    <string name="unsaved_changes">تغييرات غير محفوظة</string>
+    <string name="unsaved_changes_msg">يبدو أن لديك تغييرات غير محفوظة، هل تريد حفظها قبل المغادرة؟</string>
+
+    <string name="restore_backup_msg">سيؤدي استعادة النسخة الاحتياطية إلى مسح جميع بياناتك الحالية بشكل دائم. هل أنت متأكد أنك تريد المتابعة؟</string>
+
+    <string name="enter_term_error">أدخل المصطلح!</string>
+    <string name="enter_definition_error">أدخل التعريف!</string>
+
+    <string name="no_cards_yet">المجموعة لا تحتوي على بطاقات بعد.</string>
+    <string name="no_collections_yet">ليس لديك مجموعات بعد.</string>
+    <string name="nothing_found">لم يتم العثور على شيء.</string>
+
+    <string name="ascending">تصاعدي</string>
+    <string name="descending">تنازلي</string>
+    <string name="by_name">حسب الاسم</string>
+    <string name="by_cards_number">حسب عدد البطاقات</string>
+    <string name="by_creation">حسب الإنشاء</string>
+    <string name="by_last_edit">حسب آخر تحرير</string>
+    <string name="by_term">حسب المصطلح</string>
+
+    <string name="watermark">صُنع بحب ❤️ بواسطة WordBook</string>
+    <string name="study_congratulation">عمل جيد! استمر في الدراسة.</string>
+    <string name="rate_on_google_play">قيمنا على Google Play</string>
+
+    <string name="theme">السمة</string>
+    <string name="light">فاتح</string>
+    <string name="dark">داكن</string>
+    <string name="system">النظام</string>
+    <string name="system_default">افتراضي النظام</string>
+
+    <string name="vibration">الاهتزاز</string>
+    <string name="vibration_description">يسمح للتطبيق بالاهتزاز.</string>
+
+    <string name="language">اللغة</string>
+
+    <string name="create_backup">إنشاء نسخة احتياطية</string>
+    <string name="restore_backup">استعادة النسخة الاحتياطية</string>
+
+    <string name="at_least_1_card_error">يجب أن تحتوي المجموعة على بطاقة واحدة على الأقل</string>
+    <string name="at_least_4_cards_error">يجب أن تحتوي المجموعة على 4 بطاقات على الأقل</string>
+
+    <string name="show_divider">إظهار الفاصل</string>
+    <string name="share_via">مشاركة عبر</string>
+
+    <string name="get_file_error">لا يمكن الحصول على الملف.</string>
+    <string name="empty_database_error">قاعدة البيانات فارغة.</string>
+    <string name="restore_backup_error">لم يتمكن من استعادة النسخة الاحتياطية.</string>
+    <string name="collection_not_selected_error">اختر مجموعة!</string>
+    <string name="download_image_error">لم يتمكن من تحميل الصورة.</string>
+    <string name="create_backup_error">لم يتمكن من إنشاء النسخة الاحتياطية.</string>
+    <string name="store_image_error">لم يتمكن من حفظ الصورة.</string>
+    <string name="open_image_error">لم يتمكن من فتح الصورة.</string>
+    <string name="not_supported_file_error">ملف غير مدعوم.</string>
+    <string name="image_not_found_error">لم يتم العثور على الصورة.</string>
+
+    <string name="downloading">جاري التحميل</string>
+    <string name="creating_backup">جاري إنشاء النسخة الاحتياطية</string>
+    <string name="restoring_backup">جاري استعادة النسخة الاحتياطية</string>
+    <string name="generating_pdf">جاري إنشاء ملف PDF</string>
+    <string name="saving">جاري الحفظ</string>
+
+    <string name="new_app_is_ready">التطبيق الجديد جاهز! إعادة التشغيل في…</string>
+    <string name="successfully_restored">تم الاستعادة بنجاح.</string>
+
+    <string name="reminders">التذكيرات</string>
+    <string name="reminders_description">سنظل نبقيك على اطلاع.</string>
+
+    <string name="progress_bar_style">نمط شريط التقدم</string>
+    <string name="simple">بسيط</string>
+    <string name="advanced">متقدم</string>
+    <string name="privacy_policy">سياسة الخصوصية</string>
+    <string name="contact_us">اتصل بنا</string>
+
+    <string name="reminder_message_title">👋 نحن نفتقدك!</string>
+    <string-array name="reminder_messages">
+        <item>عد وادرس معنا! 📚</item>
+        <item>عد إلى الدراسة! بطاقاتك في انتظارك! 📖</item>
+        <item>لا تنسَ مراجعة كلماتك اليوم! 📝</item>
+        <item>خذ استراحة دراسية معنا! 🧠</item>
+        <item>عد وواصل التعلم! نحن هنا للمساعدة! 🎓</item>
+        <item>الدراسة ممتعة معنا! افتح التطبيق ونتعلم معًا! 🌟</item>
+    </string-array>
+
+    <string name="checking_for_duplicates">التحقق من التكرارات</string>
+    <string name="create">إنشاء</string>
+
+    <string name="check_for_duplication">التحقق من التكرار</string>
+    <string name="check_for_duplication_description">إعلامك إذا كان المصطلح موجودًا بالفعل.</string>
+
+    <string name="term_duplication">تكرار المصطلح</string>
+    <string name="term_duplication_msg">يبدو أن المصطلح موجود بالفعل! هل تريد إنشاء واحد آخر؟</string>
+
+    <string name="capitalization">استخدام الأحرف الكبيرة</string>
+    <string name="capitalization_description">ابدأ الجمل بحروف كبيرة.</string>
+
+    <string name="share_collection">مشاركة المجموعة</string>
+    <string name="import_collection">استيراد المجموعة</string>
+
+    <string name="generating">جاري التوليد</string>
+    <string name="importing">جاري الاستيراد</string>
+
+    <string name="successfully_imported">تم الاستيراد بنجاح.</string>
+    <string name="find_collection_error">تعذر العثور على المجموعة.</string>
+    <string name="import_data_error">تعذر قراءة البيانات.</string>
+    <string name="quick_card_widget_label">بطاقة سريعة</string>
+
+</resources>

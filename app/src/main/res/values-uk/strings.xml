@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WordBook</string>
+
+    <string name="add_card">Додати картку</string>
+    <string name="contains_single_card">Містить: 1 картку</string>
+    <string name="contains_cards">Містить: %d карток</string>
+    <string name="has_no_cards">Не має карток</string>
+
+    <string name="search">Пошук</string>
+
+    <string name="camera">Камера</string>
+    <string name="gallery">Галерея</string>
+    <string name="internet">Інтернет</string>
+
+    <string name="name">Назва</string>
+    <string name="description">Опис</string>
+    <string name="term_language">Мова терміну</string>
+    <string name="definition_language">Мова визначення</string>
+    <string name="card_color">Колір картки</string>
+    <string name="background_image">Фонове зображення</string>
+
+    <string name="term">Термін</string>
+    <string name="collection">Колекція</string>
+    <string name="transcription">Транскрипція</string>
+    <string name="definition">Визначення</string>
+    <string name="example">Приклад</string>
+    <string name="image">Зображення</string>
+
+    <string name="btn_new">Нова</string>
+    <string name="done">Готово</string>
+
+    <string name="enter_collection_name">Введіть назву колекції</string>
+    <string name="enter_description">Введіть опис - необов\'язково</string>
+
+    <string name="enter_term">Введіть термін</string>
+    <string name="enter_transcription">Введіть транскрипцію - необов\'язково</string>
+    <string name="enter_definition">Введіть визначення</string>
+    <string name="enter_example">Введіть приклад - необов\'язково</string>
+
+    <string name="answer">Відповідь</string>
+    <string name="correct_answer">Правильна відповідь</string>
+    <string name="enter_answer">Введіть відповідь тут</string>
+
+    <string name="image_url">URL зображення</string>
+    <string name="enter_image_url">Введіть URL зображення тут…</string>
+
+    <string name="settings">Налаштування</string>
+    <string name="crop_image">Обрізати зображення</string>
+    <string name="new_collection">Нова колекція</string>
+    <string name="edit_collection">Редагувати колекцію</string>
+    <string name="collections">Колекції</string>
+    <string name="edit_card">Редагувати картку</string>
+    <string name="new_card">Нова картка</string>
+
+    <string name="flashcards">Флеш-картки</string>
+    <string name="tests">Тести</string>
+    <string name="writing">Письмо</string>
+
+    <string name="edit">Редагувати</string>
+    <string name="delete">Видалити</string>
+    <string name="move_to">Перемістити в</string>
+    <string name="share_as_image">Поділитися як зображення</string>
+    <string name="share_as_pdf">Поділитися як PDF</string>
+
+    <string name="ok">OK</string>
+    <string name="save">Зберегти</string>
+    <string name="share">Поділитися</string>
+    <string name="cancel">Скасувати</string>
+    <string name="restore">Відновити</string>
+    <string name="download">Завантажити</string>
+    <string name="show_answer">Показати відповідь</string>
+    <string name="study_again">Продовжити вивчення</string>
+    <string name="leave">Вийти</string>
+    <string name="discard">Відкинути</string>
+    <string name="learned">Вивчено</string>
+    <string name="relearn">Повторити</string>
+    <string name="submit">Перевірити</string>
+    <string name="next">Далі</string>
+
+    <string name="delete_collection">Видалити колекцію</string>
+    <string name="delete_collection_msg">Ви впевнені, що хочете видалити цю колекцію та всі її картки назавжди?</string>
+
+    <string name="delete_card">Видалити картку</string>
+    <string name="delete_card_msg">Ви впевнені, що хочете видалити цю картку назавжди?</string>
+
+    <string name="unsaved_changes">Незбережені зміни</string>
+    <string name="unsaved_changes_msg">Схоже, у вас є незбережені зміни. Бажаєте зберегти їх перед виходом?</string>
+
+    <string name="restore_backup_msg">Відновлення резервної копії призведе до незворотного видалення всіх ваших поточних даних. Ви впевнені, що хочете продовжити?</string>
+
+    <string name="enter_term_error">Введіть термін!</string>
+    <string name="enter_definition_error">Введіть визначення!</string>
+
+    <string name="no_cards_yet">У колекції ще немає карток.</string>
+    <string name="no_collections_yet">У вас ще немає колекцій.</string>
+    <string name="nothing_found">Нічого не знайдено.</string>
+
+    <string name="ascending">За зростанням</string>
+    <string name="descending">За спаданням</string>
+    <string name="by_name">За назвою</string>
+    <string name="by_cards_number">За кількістю карток</string>
+    <string name="by_creation">За створенням</string>
+    <string name="by_last_edit">За останнім редагуванням</string>
+    <string name="by_term">За терміном</string>
+
+    <string name="watermark">Зроблено з ❤️ у WordBook</string>
+    <string name="study_congratulation">Вітаю! Продовжуйте вивчати.</string>
+    <string name="rate_on_google_play">Оцініть на Google Play</string>
+
+    <string name="theme">Тема</string>
+    <string name="light">Світла</string>
+    <string name="dark">Темна</string>
+    <string name="system">Системна</string>
+    <string name="system_default">Системна за замовчуванням</string>
+
+    <string name="vibration">Вібрація</string>
+    <string name="vibration_description">Дозволяє додатку вібрувати.</string>
+
+    <string name="language">Мова</string>
+
+    <string name="create_backup">Створити резервну копію</string>
+    <string name="restore_backup">Відновити резервну копію</string>
+
+    <string name="at_least_1_card_error">У колекції повинна бути принаймні 1 картка</string>
+    <string name="at_least_4_cards_error">У колекції повинно бути принаймні 4 картки</string>
+
+    <string name="show_divider">Показати роздільник</string>
+    <string name="share_via">Поділитися через</string>
+
+    <string name="get_file_error">Не вдалося отримати файл.</string>
+    <string name="empty_database_error">База даних пуста.</string>
+    <string name="restore_backup_error">Не вдалося відновити резервну копію.</string>
+    <string name="collection_not_selected_error">Виберіть колекцію!</string>
+    <string name="download_image_error">Не вдалося завантажити зображення.</string>
+    <string name="create_backup_error">Не вдалося створити резервну копію.</string>
+    <string name="store_image_error">Не вдалося зберегти зображення.</string>
+    <string name="open_image_error">Не вдалося відкрити зображення.</string>
+    <string name="not_supported_file_error">Файл не підтримується.</string>
+    <string name="image_not_found_error">Зображення не знайдено.</string>
+
+    <string name="downloading">Завантаження</string>
+    <string name="creating_backup">Створення резервної копії</string>
+    <string name="restoring_backup">Відновлення резервної копії</string>
+    <string name="generating_pdf">Генерування PDF</string>
+    <string name="saving">Збереження</string>
+
+    <string name="new_app_is_ready">Новий додаток готовий! Перезапустіть через…</string>
+    <string name="successfully_restored">Успішно відновлено.</string>
+
+    <string name="reminders">Нагадування</string>
+    <string name="reminders_description">Ми будемо тримати вас в курсі.</string>
+
+    <string name="progress_bar_style">Стиль індикатора прогресу</string>
+    <string name="simple">Простий</string>
+    <string name="advanced">Розширений</string>
+    <string name="privacy_policy">Політика конфіденційності</string>
+    <string name="contact_us">Зв\'яжіться з нами</string>
+
+    <string name="reminder_message_title">👋 Ми сумуємо за вами!</string>
+    <string-array name="reminder_messages">
+        <item>Поверніться і навчайтеся з нами! 📚</item>
+        <item>Повертайтеся до навчання! Ваші картки чекають на вас! 📖</item>
+        <item>Не забудьте повторити свої слова сьогодні! 📝</item>
+        <item>Зробіть перерву на навчання з нами! 🧠</item>
+        <item>Поверніться і продовжуйте вчитися! Ми тут, щоб допомогти! 🎓</item>
+        <item>Навчання з нами - це весело! Відкрийте додаток і навчайтеся разом з нами! 🌟</item>
+    </string-array>
+
+    <string name="checking_for_duplicates">Перевіряю на дублювання</string>
+    <string name="create">Створити</string>
+
+    <string name="check_for_duplication">Перевіряти на дублювання</string>
+    <string name="check_for_duplication_description">Повідомити вас, якщо термін вже існує.</string>
+
+    <string name="term_duplication">Дублювання терміну</string>
+    <string name="term_duplication_msg">Схоже, що цей термін вже існує! Ви хочете створити ще один?</string>
+
+    <string name="capitalization">Капіталізація</string>
+    <string name="capitalization_description">Починати речення з великої літери.</string>
+
+    <string name="share_collection">Поділитися колекцією</string>
+    <string name="import_collection">Імпортувати колекцію</string>
+
+    <string name="generating">Генерація</string>
+    <string name="importing">Імпорт</string>
+
+    <string name="successfully_imported">Успішно імпортовано.</string>
+    <string name="find_collection_error">Не вдалося знайти колекцію.</string>
+    <string name="import_data_error">Не вдалося прочитати дані.</string>
+    <string name="quick_card_widget_label">Швидка картка</string>
+
+</resources>

@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">WordBook</string>
+
+    <string name="add_card">कार्ड जोड़ें</string>
+    <string name="contains_single_card">सामिल है: 1 कार्ड</string>
+    <string name="contains_cards">सामिल है: %d कार्ड</string>
+    <string name="has_no_cards">कोई कार्ड नहीं है</string>
+
+    <string name="search">खोजें</string>
+
+    <string name="camera">कैमरा</string>
+    <string name="gallery">गैलरी</string>
+    <string name="internet">इंटरनेट</string>
+
+    <string name="name">नाम</string>
+    <string name="description">विवरण</string>
+    <string name="term_language">शब्द भाषा</string>
+    <string name="definition_language">परिभाषा भाषा</string>
+    <string name="card_color">कार्ड का रंग</string>
+    <string name="background_image">पृष्ठभूमि छवि</string>
+
+    <string name="term">शब्द</string>
+    <string name="collection">संग्रह</string>
+    <string name="transcription">लिप्यंतरण</string>
+    <string name="definition">परिभाषा</string>
+    <string name="example">उदाहरण</string>
+    <string name="image">छवि</string>
+
+    <string name="btn_new">नया</string>
+    <string name="done">पूरा हुआ</string>
+
+    <string name="enter_collection_name">संग्रह का नाम दर्ज करें</string>
+    <string name="enter_description">विवरण दर्ज करें - वैकल्पिक</string>
+
+    <string name="enter_term">शब्द दर्ज करें</string>
+    <string name="enter_transcription">लिप्यंतरण दर्ज करें - वैकल्पिक</string>
+    <string name="enter_definition">परिभाषा दर्ज करें</string>
+    <string name="enter_example">उदाहरण दर्ज करें - वैकल्पिक</string>
+
+    <string name="answer">उत्तर</string>
+    <string name="correct_answer">सही उत्तर</string>
+    <string name="enter_answer">उत्तर यहाँ दर्ज करें</string>
+
+    <string name="image_url">छवि URL</string>
+    <string name="enter_image_url">छवि URL यहाँ दर्ज करें…</string>
+
+    <string name="settings">सेटिंग्स</string>
+    <string name="crop_image">छवि क्रॉप करें</string>
+    <string name="new_collection">नया संग्रह</string>
+    <string name="edit_collection">संग्रह संपादित करें</string>
+    <string name="collections">संग्रह</string>
+    <string name="edit_card">कार्ड संपादित करें</string>
+    <string name="new_card">नया कार्ड</string>
+
+    <string name="flashcards">फ्लैशकार्ड्स</string>
+    <string name="tests">परीक्षण</string>
+    <string name="writing">लेखन</string>
+
+    <string name="edit">संपादित करें</string>
+    <string name="delete">हटाएं</string>
+    <string name="move_to">इसमें ले जाएं</string>
+    <string name="share_as_image">छवि के रूप में साझा करें</string>
+    <string name="share_as_pdf">PDF के रूप में साझा करें</string>
+
+    <string name="ok">ठीक</string>
+    <string name="save">सहेजें</string>
+    <string name="share">साझा करें</string>
+    <string name="cancel">रद्द करें</string>
+    <string name="restore">पुनर्स्थापित करें</string>
+    <string name="download">डाउनलोड करें</string>
+    <string name="show_answer">उत्तर दिखाएं</string>
+    <string name="study_again">फिर से अध्ययन करें</string>
+    <string name="leave">छोड़ें</string>
+    <string name="discard">त्यागें</string>
+    <string name="learned">सीखा हुआ</string>
+    <string name="relearn">पुनः सीखें</string>
+    <string name="submit">जमा करें</string>
+    <string name="next">अगला</string>
+
+    <string name="delete_collection">संग्रह हटाएं</string>
+    <string name="delete_collection_msg">क्या आप वाकई इस संग्रह और इसकी सभी कार्ड्स को स्थायी रूप से हटाना चाहते हैं?</string>
+
+    <string name="delete_card">कार्ड हटाएं</string>
+    <string name="delete_card_msg">क्या आप वाकई इस कार्ड को स्थायी रूप से हटाना चाहते हैं?</string>
+
+    <string name="unsaved_changes">असहेजित परिवर्तन</string>
+    <string name="unsaved_changes_msg">ऐसा लगता है कि आपके पास असहेजित परिवर्तन हैं, क्या आप छोड़ने से पहले उन्हें सहेजना चाहेंगे?</string>
+
+    <string name="restore_backup_msg">बैकअप पुनर्स्थापित करने से आपकी सभी वर्तमान डेटा स्थायी रूप से मिट जाएगी। क्या आप वाकई जारी रखना चाहते हैं?</string>
+
+    <string name="enter_term_error">शब्द दर्ज करें!</string>
+    <string name="enter_definition_error">परिभाषा दर्ज करें!</string>
+
+    <string name="no_cards_yet">संग्रह में अभी तक कोई कार्ड नहीं है।</string>
+    <string name="no_collections_yet">आपके पास अभी तक कोई संग्रह नहीं है।</string>
+    <string name="nothing_found">कुछ नहीं मिला।</string>
+
+    <string name="ascending">आरोही</string>
+    <string name="descending">अवरोही</string>
+    <string name="by_name">नाम के अनुसार</string>
+    <string name="by_cards_number">कार्ड्स की संख्या के अनुसार</string>
+    <string name="by_creation">निर्माण के अनुसार</string>
+    <string name="by_last_edit">अंतिम संपादन के अनुसार</string>
+    <string name="by_term">शब्द के अनुसार</string>
+
+    <string name="watermark">❤️ से बनाया गया WordBook द्वारा</string>
+    <string name="study_congratulation">बहुत बढ़िया! अध्ययन जारी रखें।</string>
+    <string name="rate_on_google_play">Google Play पर रेट करें</string>
+
+    <string name="theme">थीम</string>
+    <string name="light">हल्का</string>
+    <string name="dark">गहरा</string>
+    <string name="system">सिस्टम</string>
+    <string name="system_default">सिस्टम डिफॉल्ट</string>
+
+    <string name="vibration">कंपन</string>
+    <string name="vibration_description">ऐप को कंपन करने की अनुमति देता है।</string>
+
+    <string name="language">भाषा</string>
+
+    <string name="create_backup">बैकअप बनाएं</string>
+    <string name="restore_backup">बैकअप पुनर्स्थापित करें</string>
+
+    <string name="at_least_1_card_error">संग्रह में कम से कम 1 कार्ड होना चाहिए</string>
+    <string name="at_least_4_cards_error">संग्रह में कम से कम 4 कार्ड होना चाहिए</string>
+
+    <string name="show_divider">डिवाइडर दिखाएं</string>
+    <string name="share_via">के माध्यम से साझा करें</string>
+
+    <string name="get_file_error">फ़ाइल प्राप्त नहीं कर सका।</string>
+    <string name="empty_database_error">डेटाबेस खाली है।</string>
+    <string name="restore_backup_error">बैकअप पुनर्स्थापित नहीं कर सका।</string>
+    <string name="collection_not_selected_error">एक संग्रह चुनें!</string>
+    <string name="download_image_error">छवि डाउनलोड नहीं कर सका।</string>
+    <string name="create_backup_error">बैकअप नहीं बना सका।</string>
+    <string name="store_image_error">छवि सहेज नहीं सका।</string>
+    <string name="open_image_error">छवि खोल नहीं सका।</string>
+    <string name="not_supported_file_error">समर्थित नहीं की गई फ़ाइल।</string>
+    <string name="image_not_found_error">छवि नहीं मिली।</string>
+
+    <string name="downloading">डाउनलोड हो रहा है</string>
+    <string name="creating_backup">बैकअप बन रहा है</string>
+    <string name="restoring_backup">बैकअप पुनर्स्थापित हो रहा है</string>
+    <string name="generating_pdf">PDF बन रहा है</string>
+    <string name="saving">सहेजा जा रहा है</string>
+
+    <string name="new_app_is_ready">नया ऐप तैयार है! पुनः आरंभ करें…</string>
+    <string name="successfully_restored">सफलतापूर्वक पुनर्स्थापित किया गया।</string>
+
+    <string name="reminders">अनुस्मारक</string>
+    <string name="reminders_description">हम आपको सूचित करते रहेंगे।</string>
+
+    <string name="progress_bar_style">प्रगति पट्टी शैली</string>
+    <string name="simple">सरल</string>
+    <string name="advanced">उन्नत</string>
+    <string name="privacy_policy">गोपनीयता नीति</string>
+    <string name="contact_us">हमसे संपर्क करें</string>
+
+    <string name="reminder_message_title">👋 हमें आपकी याद आती है!</string>
+    <string-array name="reminder_messages">
+        <item>वापस आएं और हमारे साथ अध्ययन करें! 📚</item>
+        <item>अध्ययन पर वापस आएं! आपके फ्लैशकार्ड आपका इंतजार कर रहे हैं! 📖</item>
+        <item>आज अपने शब्दों की समीक्षा करना न भूलें! 📝</item>
+        <item>हमारे साथ अध्ययन ब्रेक लें! 🧠</item>
+        <item>वापस आएं और सीखते रहें! हम यहाँ मदद के लिए हैं! 🎓</item>
+        <item>हमारे साथ अध्ययन करना मजेदार है! ऐप खोलें और आइए साथ में सीखें! 🌟</item>
+    </string-array>
+
+    <string name="checking_for_duplicates">डुप्लिकेट की जाँच हो रही है</string>
+    <string name="create">बनाएं</string>
+
+    <string name="check_for_duplication">डुप्लिकेशन की जाँच करें</string>
+    <string name="check_for_duplication_description">यदि शब्द पहले से मौजूद है तो आपको सूचित करें।</string>
+
+    <string name="term_duplication">शब्द दोहराव</string>
+    <string name="term_duplication_msg">लगता है कि शब्द पहले से ही मौजूद है! क्या आप एक और बनाना चाहते हैं?</string>
+
+    <string name="capitalization">कैपिटलाइजेशन</string>
+    <string name="capitalization_description">वाक्यों को बड़े अक्षरों से शुरू करें।</string>
+
+    <string name="share_collection">संग्रह साझा करें</string>
+    <string name="import_collection">संग्रह आयात करें</string>
+
+    <string name="generating">सृजन कर रहे हैं</string>
+    <string name="importing">आयात कर रहे हैं</string>
+
+    <string name="successfully_imported">सफलतापूर्वक आयात किया गया।</string>
+    <string name="find_collection_error">संग्रह नहीं मिला।</string>
+    <string name="import_data_error">डेटा पढ़ने में विफल।</string>
+    <string name="quick_card_widget_label">त्वरित कार्ड</string>
+
+</resources>

@@ -1,0 +1,111 @@
+{
+  ConstraintSets: {
+    start: {
+      back_btn: {
+        start: ['parent', 'start', 8],
+        top: ['parent', 'top'],
+        bottom: ['parent', 'bottom']
+      },
+      title: {
+        width: 'spread',
+        start: ['back_btn', 'end', 4],
+        top: ['parent', 'top'],
+        bottom: ['parent', 'bottom'],
+        end: ['search_icon', 'start']
+      },
+      options_icon: {
+        end: ['parent', 'end', 4],
+        top: ['parent', 'top'],
+        bottom: ['parent', 'bottom']
+      },
+      search_icon: {
+        end: ['options_icon', 'start', 10],
+        top: ['parent', 'top'],
+        bottom: ['parent', 'bottom'],
+        rotationZ: 0,
+      },
+      close_icon: {
+        end: ['options_icon', 'start'],
+        top: ['parent', 'top'],
+        bottom: ['parent', 'bottom'],
+      },
+      search_box: {
+        start: ['search_icon', 'end', 16],
+        top: ['parent', 'top'],
+        bottom: ['parent', 'bottom']
+      }
+    },
+    end: {
+      back_btn: {
+        start: ['parent', 'start', 8],
+        top: ['parent', 'top'],
+        bottom: ['parent', 'bottom']
+      },
+      title: {
+        start: ['back_btn', 'end', 4],
+        top: ['parent', 'top'],
+        bottom: ['parent', 'bottom'],
+        end: ['close_icon', 'start']
+      },
+      options_icon: {
+        end: ['parent', 'end', 4],
+        top: ['parent', 'top'],
+        bottom: ['parent', 'bottom']
+      },
+      search_icon: {
+        start: ['parent', 'start', 18],
+        top: ['parent', 'top'],
+        bottom: ['parent', 'bottom'],
+        rotationZ: 90
+      },
+      close_icon: {
+        end: ['options_icon', 'start'],
+        top: ['parent', 'top'],
+        bottom: ['parent', 'bottom']
+      },
+      search_box: {
+        width: 'spread',
+        start: ['search_icon', 'end', 8],
+        top: ['parent', 'top'],
+        bottom: ['parent', 'bottom'],
+        end: ['close_icon', 'start', 4]
+      }
+    }
+  },
+  Transitions: {
+    default: {
+      from: 'start',
+      to: 'end',
+      pathMotionArc: 'startHorizontal',
+      KeyFrames: {
+        KeyAttributes: [
+          {
+            target: ['search_icon'],
+            frames: [0, 20, 80, 100],
+            rotationY: [0, 30, 330, 360],
+          },
+          {
+            target: ['back_btn', 'title'],
+            frames: [0, 30, 100],
+            alpha: [1, 0, 0],
+            scaleY: [1, 0.8, 0.8],
+            scaleX: [1, 0.8, 0.8],
+          },
+          {
+            target: ['search_box'],
+            frames: [0, 30, 100],
+            alpha: [0, 0, 1]
+          },
+          {
+            target: ['close_icon'],
+            frames: [0, 50, 100],
+            rotationZ: [0, 0, 180],
+            scaleX: [0, 0.5, 1],
+            scaleY: [0, 0.5, 1],
+            alpha: [0, 0, 1]
+          }
+        ]
+      }
+    }
+  }
+}

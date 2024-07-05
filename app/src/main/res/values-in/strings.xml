@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">WordBook</string>
+
+    <string name="add_card">Tambah Kartu</string>
+    <string name="contains_single_card">Berisi: 1 kartu</string>
+    <string name="contains_cards">Berisi: %d kartu</string>
+    <string name="has_no_cards">Tidak memiliki kartu</string>
+
+    <string name="search">Cari</string>
+
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="internet">Internet</string>
+
+    <string name="name">Nama</string>
+    <string name="description">Deskripsi</string>
+    <string name="term_language">Bahasa istilah</string>
+    <string name="definition_language">Bahasa definisi</string>
+    <string name="card_color">Warna Kartu</string>
+    <string name="background_image">Gambar latar</string>
+
+    <string name="term">Istilah</string>
+    <string name="collection">Koleksi</string>
+    <string name="transcription">Transkripsi</string>
+    <string name="definition">Definisi</string>
+    <string name="example">Contoh</string>
+    <string name="image">Gambar</string>
+
+    <string name="btn_new">Baru</string>
+    <string name="done">Selesai</string>
+
+    <string name="enter_collection_name">Masukkan nama koleksi</string>
+    <string name="enter_description">Masukkan deskripsi - opsional</string>
+
+    <string name="enter_term">Masukkan istilah</string>
+    <string name="enter_transcription">Masukkan transkripsi - opsional</string>
+    <string name="enter_definition">Masukkan definisi</string>
+    <string name="enter_example">Masukkan contoh - opsional</string>
+
+    <string name="answer">Jawaban</string>
+    <string name="correct_answer">Jawaban yang Benar</string>
+    <string name="enter_answer">Masukkan jawaban di sini</string>
+
+    <string name="image_url">URL gambar</string>
+    <string name="enter_image_url">Masukkan URL gambar di sini…</string>
+
+    <string name="settings">Pengaturan</string>
+    <string name="crop_image">Potong gambar</string>
+    <string name="new_collection">Koleksi baru</string>
+    <string name="edit_collection">Sunting Koleksi</string>
+    <string name="collections">Koleksi</string>
+    <string name="edit_card">Sunting Kartu</string>
+    <string name="new_card">Kartu Baru</string>
+
+    <string name="flashcards">Kartu flash</string>
+    <string name="tests">Tes</string>
+    <string name="writing">Menulis</string>
+
+    <string name="edit">Sunting</string>
+    <string name="delete">Menghapus</string>
+    <string name="move_to">Pindah ke</string>
+    <string name="share_as_image">Bagikan sebagai gambar</string>
+    <string name="share_as_pdf">Bagikan sebagai PDF</string>
+
+    <string name="ok">OKE</string>
+    <string name="save">Simpan</string>
+    <string name="share">Bagikan</string>
+    <string name="cancel">Membatalkan</string>
+    <string name="restore">Memulihkan</string>
+    <string name="download">Unduh</string>
+    <string name="show_answer">Tampilkan jawaban</string>
+    <string name="study_again">Studi Lagi</string>
+    <string name="leave">Keluar</string>
+    <string name="discard">Membuang</string>
+    <string name="learned">Terpelajar</string>
+    <string name="relearn">Belajar Ulang</string>
+    <string name="submit">Kirim</string>
+    <string name="next">Berikutnya</string>
+
+    <string name="delete_collection">Hapus Koleksi</string>
+    <string name="delete_collection_msg">Anda yakin ingin menghapus koleksi ini beserta semua kartunya secara permanen?</string>
+
+    <string name="delete_card">Hapus Kartu</string>
+    <string name="delete_card_msg">Anda yakin ingin menghapus kartu ini secara permanen?</string>
+
+    <string name="unsaved_changes">Perubahan Belum Tersimpan</string>
+    <string name="unsaved_changes_msg">Sepertinya Anda memiliki perubahan yang belum disimpan. Apakah Anda ingin menyimpannya sebelum keluar?</string>
+
+    <string name="restore_backup_msg">Memulihkan cadangan akan menghapus semua data Anda saat ini secara permanen. Apakah Anda yakin ingin melanjutkan?</string>
+
+    <string name="enter_term_error">Masukkan istilah!</string>
+    <string name="enter_definition_error">Masukkan definisi!</string>
+
+    <string name="no_cards_yet">Koleksi ini belum memiliki kartu.</string>
+    <string name="no_collections_yet">Anda belum memiliki koleksi.</string>
+    <string name="nothing_found">Tidak ada yang ditemukan.</string>
+
+    <string name="ascending">Menaik</string>
+    <string name="descending">Menurun</string>
+    <string name="by_name">Menurut Nama</string>
+    <string name="by_cards_number">Menurut Jumlah Kartu</string>
+    <string name="by_creation">Menurut Pembuatan</string>
+    <string name="by_last_edit">Menurut Edit Terakhir</string>
+    <string name="by_term">Menurut Istilah</string>
+
+    <string name="watermark">Dibuat dengan ❤️ oleh WordBook</string>
+    <string name="study_congratulation">Bagus sekali! Teruslah belajar.</string>
+    <string name="rate_on_google_play">Nilai di Google Play</string>
+
+    <string name="theme">Tema</string>
+    <string name="light">Lampu</string>
+    <string name="dark">Gelap</string>
+    <string name="system">Sistem</string>
+    <string name="system_default">Default Sistem</string>
+
+    <string name="vibration">Getaran</string>
+    <string name="vibration_description">Memungkinkan aplikasi bergetar.</string>
+
+    <string name="language">Bahasa</string>
+
+    <string name="create_backup">Buat Cadangan</string>
+    <string name="restore_backup">Pulihkan Cadangan</string>
+
+    <string name="at_least_1_card_error">Koleksinya harus memiliki minimal 1 kartu</string>
+    <string name="at_least_4_cards_error">Koleksinya harus memiliki minimal 4 kartu</string>
+
+    <string name="show_divider">Tampilkan pembatas</string>
+    <string name="share_via">Bagikan melalui</string>
+
+    <string name="get_file_error">Tidak bisa mendapatkan filenya.</string>
+    <string name="empty_database_error">Basis datanya kosong.</string>
+    <string name="restore_backup_error">Tidak dapat memulihkan cadangan.</string>
+    <string name="collection_not_selected_error">Pilih koleksi!</string>
+    <string name="download_image_error">Tidak dapat mengunduh gambar.</string>
+    <string name="create_backup_error">Tidak dapat membuat cadangan.</string>
+    <string name="store_image_error">Tidak dapat menyimpan gambar.</string>
+    <string name="open_image_error">Tidak dapat membuka gambar.</string>
+    <string name="not_supported_file_error">File tidak didukung.</string>
+    <string name="image_not_found_error">Gambar tidak ditemukan.</string>
+
+    <string name="downloading">Mengunduh</string>
+    <string name="creating_backup">Membuat cadangan</string>
+    <string name="restoring_backup">Memulihkan cadangan</string>
+    <string name="generating_pdf">Menghasilkan PDF</string>
+    <string name="saving">Menyimpan</string>
+
+    <string name="new_app_is_ready">Aplikasi baru sudah siap! Mulai ulang dalam…</string>
+    <string name="successfully_restored">Berhasil dipulihkan.</string>
+
+    <string name="reminders">Pengingat</string>
+    <string name="reminders_description">Kami akan tetap memberi informasi kepada Anda.</string>
+
+    <string name="progress_bar_style">Gaya bilah kemajuan</string>
+    <string name="simple">Sederhana</string>
+    <string name="advanced">Lanjutan</string>
+    <string name="privacy_policy">Kebijakan Privasi</string>
+    <string name="contact_us">Hubungi Kami</string>
+
+    <string name="reminder_message_title">👋 Kami merindukanmu!</string>
+    <string-array name="reminder_messages">
+        <item>Kembalilah dan belajar bersama kami! 📚</item>
+        <item>Kembali belajar! Kartu flashmu menunggu! 📖</item>
+        <item>Jangan lupa untuk meninjau kata-katamu hari ini! 📝</item>
+        <item>Ambil istirahat belajar dengan kami! 🧠</item>
+        <item>Kembalilah dan terus belajar! Kami di sini untuk membantu! 🎓</item>
+        <item>Belajar itu menyenangkan bersama kami! Buka aplikasi dan mari belajar bersama! 🌟</item>
+    </string-array>
+
+    <string name="checking_for_duplicates">Memeriksa duplikat</string>
+    <string name="create">Buat</string>
+
+    <string name="check_for_duplication">Periksa duplikasi</string>
+    <string name="check_for_duplication_description">Memberitahu Anda jika istilah sudah ada.</string>
+
+    <string name="term_duplication">Duplikasi istilah</string>
+    <string name="term_duplication_msg">Sepertinya istilah sudah ada! Apakah Anda ingin membuat yang lain?</string>
+
+    <string name="capitalization">Huruf kapital</string>
+    <string name="capitalization_description">Mulai kalimat dengan huruf kapital.</string>
+
+    <string name="share_collection">Bagikan koleksi</string>
+    <string name="import_collection">Impor koleksi</string>
+
+    <string name="generating">Menghasilkan</string>
+    <string name="importing">Mengimpor</string>
+
+    <string name="successfully_imported">Berhasil diimpor.</string>
+    <string name="find_collection_error">Tidak dapat menemukan koleksi.</string>
+    <string name="import_data_error">Tidak dapat membaca data.</string>
+    <string name="quick_card_widget_label">Kartu Cepat</string>
+
+</resources>

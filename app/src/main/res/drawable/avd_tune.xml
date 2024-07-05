@@ -1,0 +1,209 @@
+<animated-vector
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt">
+    <aapt:attr name="android:drawable">
+        <vector
+            android:name="vector"
+            android:width="24dp"
+            android:height="24dp"
+            android:viewportWidth="24"
+            android:viewportHeight="24">
+            <group
+                android:name="line_1"
+                android:translateY="-6">
+                <path
+                    android:name="horizontal_left_1"
+                    android:pathData="M 4 12 L 20 12"
+                    android:strokeColor="#000000"
+                    android:strokeWidth="2"
+                    android:trimPathEnd="0.5"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"
+                    android:strokeMiterLimit="10"/>
+                <path
+                    android:name="horizontal_right_1"
+                    android:pathData="M 4 12 L 20 12"
+                    android:strokeColor="#000000"
+                    android:strokeWidth="2"
+                    android:trimPathStart="0.75"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"
+                    android:strokeMiterLimit="10"/>
+                <group
+                    android:name="tune_1"
+                    android:translateX="4">
+                    <path
+                        android:name="vertical_1"
+                        android:pathData="M 12 15 C 11.4 15 11 14.6 11 14 L 11 10 C 11 9.4 11.4 9 12 9 C 12.6 9 13 9.4 13 10 L 13 14 C 13 14.5 12.6 15 12 15 Z"
+                        android:fillColor="#000"
+                        android:strokeWidth="1"/>
+                </group>
+            </group>
+            <group android:name="line_2">
+                <path
+                    android:name="horizontal_left_2"
+                    android:pathData="M 4 12 L 20 12"
+                    android:strokeColor="#000000"
+                    android:strokeWidth="2"
+                    android:trimPathEnd="0.2"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"
+                    android:strokeMiterLimit="10"/>
+                <path
+                    android:name="horizontal_right_2"
+                    android:pathData="M 4 12 L 20 12"
+                    android:strokeColor="#000000"
+                    android:strokeWidth="2"
+                    android:trimPathStart="0.5"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"
+                    android:strokeMiterLimit="10"/>
+                <group
+                    android:name="tune_2"
+                    android:translateX="-4">
+                    <path
+                        android:name="vertical_2"
+                        android:pathData="M 12 14 L 12 10"
+                        android:strokeColor="#000000"
+                        android:strokeWidth="2"
+                        android:strokeLineCap="round"
+                        android:strokeLineJoin="round"
+                        android:strokeMiterLimit="10"/>
+                </group>
+            </group>
+            <group
+                android:name="line_3"
+                android:translateY="6">
+                <path
+                    android:name="horizontal_left_3"
+                    android:pathData="M 4 12 L 20 12"
+                    android:strokeColor="#000000"
+                    android:strokeWidth="2"
+                    android:trimPathEnd="0.38"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"
+                    android:strokeMiterLimit="10"/>
+                <path
+                    android:name="horizontal_right_3"
+                    android:pathData="M 4 12 L 20 12"
+                    android:strokeColor="#000000"
+                    android:strokeWidth="2"
+                    android:trimPathStart="0.7"
+                    android:strokeLineCap="round"
+                    android:strokeLineJoin="round"
+                    android:strokeMiterLimit="10"/>
+                <group
+                    android:name="tune_3"
+                    android:translateX="2">
+                    <path
+                        android:name="vertical_3"
+                        android:pathData="M 12 14 L 12 10"
+                        android:strokeColor="#000000"
+                        android:strokeWidth="2"
+                        android:strokeLineCap="round"
+                        android:strokeLineJoin="round"
+                        android:strokeMiterLimit="10"/>
+                </group>
+            </group>
+        </vector>
+    </aapt:attr>
+    <target android:name="tune_1">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:propertyName="translateX"
+                android:duration="300"
+                android:valueFrom="4"
+                android:valueTo="-2"
+                android:valueType="floatType"
+                android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+    <target android:name="horizontal_right_2">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:propertyName="trimPathStart"
+                android:duration="300"
+                android:valueFrom="0.5"
+                android:valueTo="0.8"
+                android:valueType="floatType"
+                android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+    <target android:name="tune_2">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:propertyName="translateX"
+                android:duration="300"
+                android:valueFrom="-4"
+                android:valueTo="4"
+                android:valueType="floatType"
+                android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+    <target android:name="horizontal_left_2">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:propertyName="trimPathEnd"
+                android:duration="300"
+                android:valueFrom="0.2"
+                android:valueTo="0.5"
+                android:valueType="floatType"
+                android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+    <target android:name="tune_3">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:propertyName="translateX"
+                android:duration="300"
+                android:valueFrom="2"
+                android:valueTo="-4"
+                android:valueType="floatType"
+                android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+    <target android:name="horizontal_left_1">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:propertyName="trimPathEnd"
+                android:duration="300"
+                android:valueFrom="0.5"
+                android:valueTo="0.3"
+                android:valueType="floatType"
+                android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+    <target android:name="horizontal_right_1">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:propertyName="trimPathStart"
+                android:duration="300"
+                android:valueFrom="0.75"
+                android:valueTo="0.62"
+                android:valueType="floatType"
+                android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+    <target android:name="horizontal_left_3">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:propertyName="trimPathEnd"
+                android:duration="300"
+                android:valueFrom="0.38"
+                android:valueTo="0.2"
+                android:valueType="floatType"
+                android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+    <target android:name="horizontal_right_3">
+        <aapt:attr name="android:animation">
+            <objectAnimator
+                android:propertyName="trimPathStart"
+                android:duration="300"
+                android:valueFrom="0.7"
+                android:valueTo="0.5"
+                android:valueType="floatType"
+                android:interpolator="@android:interpolator/fast_out_slow_in"/>
+        </aapt:attr>
+    </target>
+</animated-vector>

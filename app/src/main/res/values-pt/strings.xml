@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">WordBook</string>
+
+    <string name="add_card">Adicionar Cartão</string>
+    <string name="contains_single_card">Contém: 1 cartão</string>
+    <string name="contains_cards">Contém: %d cartões</string>
+    <string name="has_no_cards">Não tem cartões</string>
+
+    <string name="search">Buscar</string>
+
+    <string name="camera">Câmera</string>
+    <string name="gallery">Galeria</string>
+    <string name="internet">Internet</string>
+
+    <string name="name">Nome</string>
+    <string name="description">Descrição</string>
+    <string name="term_language">Linguagem do termo</string>
+    <string name="definition_language">Linguagem de definição</string>
+    <string name="card_color">Cor do cartão</string>
+    <string name="background_image">Imagem de fundo</string>
+
+    <string name="term">Termo</string>
+    <string name="collection">Coleção</string>
+    <string name="transcription">Transcrição</string>
+    <string name="definition">Definição</string>
+    <string name="example">Exemplo</string>
+    <string name="image">Imagem</string>
+
+    <string name="btn_new">Novo</string>
+    <string name="done">Feito</string>
+
+    <string name="enter_collection_name">Insira o nome da coleção</string>
+    <string name="enter_description">Insira a descrição - opcional</string>
+
+    <string name="enter_term">Insira o termo</string>
+    <string name="enter_transcription">Insira a transcrição - opcional</string>
+    <string name="enter_definition">Insira a definição</string>
+    <string name="enter_example">Insira o exemplo - opcional</string>
+
+    <string name="answer">Resposta</string>
+    <string name="correct_answer">Resposta correta</string>
+    <string name="enter_answer">Insira a resposta aqui</string>
+
+    <string name="image_url">URL da imagem</string>
+    <string name="enter_image_url">Insira a URL da imagem aqui…</string>
+
+    <string name="settings">Configurações</string>
+    <string name="crop_image">Cortar imagem</string>
+    <string name="new_collection">Nova coleção</string>
+    <string name="edit_collection">Editar coleção</string>
+    <string name="collections">Coleções</string>
+    <string name="edit_card">Editar cartão</string>
+    <string name="new_card">Novo cartão</string>
+
+    <string name="flashcards">Cartões Flash</string>
+    <string name="tests">Testes</string>
+    <string name="writing">Escrita</string>
+
+    <string name="edit">Editar</string>
+    <string name="delete">Excluir</string>
+    <string name="move_to">Mover para</string>
+    <string name="share_as_image">Compartilhar como imagem</string>
+    <string name="share_as_pdf">Compartilhar como PDF</string>
+
+    <string name="ok">OK</string>
+    <string name="save">Salvar</string>
+    <string name="share">Compartilhar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="restore">Restaurar</string>
+    <string name="download">Download</string>
+    <string name="show_answer">Mostrar resposta</string>
+    <string name="study_again">Estudar novamente</string>
+    <string name="leave">Sair</string>
+    <string name="discard">Descartar</string>
+    <string name="learned">Aprendido</string>
+    <string name="relearn">Reaprender</string>
+    <string name="submit">Enviar</string>
+    <string name="next">Próximo</string>
+
+    <string name="delete_collection">Excluir coleção</string>
+    <string name="delete_collection_msg">Tem certeza de que deseja excluir esta coleção e todos os seus cartões permanentemente?</string>
+
+    <string name="delete_card">Excluir cartão</string>
+    <string name="delete_card_msg">Tem certeza de que deseja excluir este cartão permanentemente?</string>
+
+    <string name="unsaved_changes">Alterações não salvas</string>
+    <string name="unsaved_changes_msg">Parece que você tem alterações não salvas. Deseja salvá-las antes de sair?</string>
+
+    <string name="restore_backup_msg">Restaurar um backup apagará permanentemente todos os seus dados atuais. Tem certeza de que deseja continuar?</string>
+
+    <string name="enter_term_error">Insira o termo!</string>
+    <string name="enter_definition_error">Insira a definição!</string>
+
+    <string name="no_cards_yet">A coleção ainda não possui cartões.</string>
+    <string name="no_collections_yet">Você ainda não possui coleções.</string>
+    <string name="nothing_found">Nada encontrado.</string>
+
+    <string name="ascending">Ascendente</string>
+    <string name="descending">Descendente</string>
+    <string name="by_name">Por nome</string>
+    <string name="by_cards_number">Por número de cartões</string>
+    <string name="by_creation">Por criação</string>
+    <string name="by_last_edit">Por última edição</string>
+    <string name="by_term">Por termo</string>
+
+    <string name="watermark">Feito com ❤️ por WordBook</string>
+    <string name="study_congratulation">Bom trabalho! Continue estudando.</string>
+    <string name="rate_on_google_play">Avaliar no Google Play</string>
+
+    <string name="theme">Tema</string>
+    <string name="light">Claro</string>
+    <string name="dark">Escuro</string>
+    <string name="system">Sistema</string>
+    <string name="system_default">Sistema padrão</string>
+
+    <string name="vibration">Vibração</string>
+    <string name="vibration_description">Permite que o aplicativo vibre.</string>
+
+    <string name="language">Linguagem</string>
+
+    <string name="create_backup">Criar backup</string>
+    <string name="restore_backup">Restaurar backup</string>
+
+    <string name="at_least_1_card_error">A coleção deve ter pelo menos 1 cartão</string>
+    <string name="at_least_4_cards_error">A coleção deve ter pelo menos 4 cartões</string>
+
+    <string name="show_divider">Mostrar divisor</string>
+    <string name="share_via">Compartilhar via</string>
+
+    <string name="get_file_error">Não é possível obter o arquivo.</string>
+    <string name="empty_database_error">O banco de dados está vazio.</string>
+    <string name="restore_backup_error">Não foi possível restaurar o backup.</string>
+    <string name="collection_not_selected_error">Selecione uma coleção!</string>
+    <string name="download_image_error">Não foi possível baixar a imagem.</string>
+    <string name="create_backup_error">Não foi possível criar o backup.</string>
+    <string name="store_image_error">Não foi possível armazenar a imagem.</string>
+    <string name="open_image_error">Não foi possível abrir a imagem.</string>
+    <string name="not_supported_file_error">Arquivo não suportado.</string>
+    <string name="image_not_found_error">Imagem não encontrada.</string>
+
+    <string name="downloading">Baixando</string>
+    <string name="creating_backup">Criando backup</string>
+    <string name="restoring_backup">Restaurando backup</string>
+    <string name="generating_pdf">Gerando PDF</string>
+    <string name="saving">Salvando</string>
+
+    <string name="new_app_is_ready">Novo aplicativo está pronto! Reiniciar em…</string>
+    <string name="successfully_restored">Restaurado com sucesso.</string>
+
+    <string name="reminders">Lembretes</string>
+    <string name="reminders_description">Nós manteremos você informado.</string>
+
+    <string name="progress_bar_style">Estilo da barra de progresso</string>
+    <string name="simple">Simples</string>
+    <string name="advanced">Avançado</string>
+    <string name="privacy_policy">Política de Privacidade</string>
+    <string name="contact_us">Contate-Nos</string>
+
+    <string name="reminder_message_title">👋 Sentimos sua falta!</string>
+    <string-array name="reminder_messages">
+        <item>Volte e estude conosco! 📚</item>
+        <item>Volte a estudar! Seus flashcards estão esperando por você! 📖</item>
+        <item>Não se esqueça de revisar suas palavras hoje! 📝</item>
+        <item>Faça uma pausa para estudar conosco! 🧠</item>
+        <item>Volte e continue aprendendo! Estamos aqui para ajudar! 🎓</item>
+        <item>Estudar é divertido conosco! Abra o aplicativo e vamos aprender juntos! 🌟</item>
+    </string-array>
+
+    <string name="checking_for_duplicates">Verificando duplicatas</string>
+    <string name="create">Criar</string>
+
+    <string name="check_for_duplication">Verificar duplicação</string>
+    <string name="check_for_duplication_description">Notificar você se o termo já existir.</string>
+
+    <string name="term_duplication">Duplicação de termo</string>
+    <string name="term_duplication_msg">Parece que o termo já existe! Você quer criar outro?</string>
+
+    <string name="capitalization">Capitalização</string>
+    <string name="capitalization_description">Comece as frases com letras maiúsculas.</string>
+
+    <string name="share_collection">Compartilhar coleção</string>
+    <string name="import_collection">Importar coleção</string>
+
+    <string name="generating">Gerando</string>
+    <string name="importing">Importando</string>
+
+    <string name="successfully_imported">Importado com sucesso.</string>
+    <string name="find_collection_error">Não foi possível encontrar a coleção.</string>
+    <string name="import_data_error">Não foi possível ler os dados.</string>
+    <string name="quick_card_widget_label">Cartão Rápido</string>
+
+</resources>
